@@ -1,0 +1,6 @@
+C:\Users\wangxin\Desktop\kingdee plugins\SaleOrderPlugin\SaleOrderPlugin\obj\Debug\SaleOrderPlugin.csproj.CopyComplete
+G:\k3Cloud\WebSite\bin\CheckSaleOrder.dll
+G:\k3Cloud\WebSite\bin\CheckSaleOrder.pdb
+C:\Users\wangxin\Desktop\kingdee plugins\SaleOrderPlugin\SaleOrderPlugin\obj\Debug\CheckSaleOrder.dll
+C:\Users\wangxin\Desktop\kingdee plugins\SaleOrderPlugin\SaleOrderPlugin\obj\Debug\CheckSaleOrder.pdb
+C:\Users\wangxin\Desktop\kingdee plugins\SaleOrderPlugin\SaleOrderPlugin\obj\Debug\SaleOrderPlugin.csprojAssemblyReference.cache
